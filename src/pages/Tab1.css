@@ -1,0 +1,100 @@
+/* Tab1.css */
+
+/* Styling for the IonPage container */
+ion-page {
+    background-color: #f5f5f5; /* Slightly lighter background color */
+  }
+  
+  /* Styling for IonContent */
+  ion-content {
+    --background: #f5f5f5; /* Light gray content background color */
+  }
+  
+  /* Styling for the upcoming section */
+  .upcoming-section {
+    background-color: #4caf50; /* Green background color */
+    color: #ffffff; /* White text color */
+    min-height: 200px;
+    padding: 15px; /* Padding for the section */
+    border-radius: 8px; /* Rounded corners */
+    margin: 10px; /* Margin around the section */
+  }
+  
+  .upcoming-section .section-header {
+    font-size: 1rem; /* Font size */
+    font-weight: bold; /* Bold font */
+  }
+  
+  .upcoming-section .section-title {
+    font-size: 1.2rem; /* Font size */
+    margin-top: 5px; /* Margin top */
+  }
+  
+  .upcoming-section .section-time,
+  .upcoming-section .section-speakers {
+    font-size: 0.9rem; /* Font size */
+    margin-top: 5px; /* Margin top */
+  }
+  
+  /* Styling for the happening now section */
+  .happening-now-section {
+    background-color: #ffffff; /* White background color */
+    color: #000000; /* Black text color */
+    min-height: 200px;
+    padding: 15px; /* Padding for the section */
+    border-radius: 8px; /* Rounded corners */
+    margin: 10px; /* Margin around the section */
+  }
+  
+  .happening-now-section .section-header {
+    font-size: 1rem; /* Font size */
+    font-weight: bold; /* Bold font */
+  }
+  
+  .happening-now-section .section-title {
+    font-size: 1.2rem; /* Font size */
+    margin-top: 5px; /* Margin top */
+  }
+  
+  .happening-now-section .speakers {
+    display: flex; /* Display flex */
+    margin-top: 10px; /* Margin top */
+  }
+  
+  .happening-now-section .speakers img {
+    width: 40px; /* Image width */
+    height: 40px; /* Image height */
+    margin-right: 5px; /* Margin right */
+    border-radius: 50%; /* Round images */
+  }
+  
+  .happening-now-section .section-speakers,
+  .happening-now-section .section-audience {
+    font-size: 0.9rem; /* Font size */
+    margin-top: 5px; /* Margin top */
+  }
+  
+  /* Styling for IonTabBar */
+  ion-tab-bar {
+    --background: #ffffff; /* White tab bar background color */
+    --color-selected: #4caf50; /* Green selected tab text color */
+    --color: #000000; /* Black tab text color */
+    border-top: 1px solid #e0e0e0; /* Top border for tab bar */
+  }
+  
+  /* Styling for IonTabButton */
+  ion-tab-button {
+    --color-selected: #4caf50; /* Green selected tab button text color */
+    --color: #000000; /* Black tab button text color */
+  }
+  
+  /* Styling for IonIcon inside IonTabButton */
+  ion-icon {
+    font-size: 1.2rem; /* Adjusted icon size */
+  }
+  
+  /* Styling for IonLabel inside IonTabButton */
+  ion-label {
+    font-size: 0.9rem; /* Adjusted label font size */
+  }
+  

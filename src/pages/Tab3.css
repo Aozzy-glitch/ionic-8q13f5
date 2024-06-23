@@ -1,0 +1,95 @@
+.div1{
+    background-color: blue;
+    min-height: 500px;
+    width: 50%;
+    padding: 60px;
+    float: left;
+    color: white;
+    margin: 0 auto;
+    font-size: larger;
+}
+.helloname{
+    color: white;
+}
+.p1{
+    font-size: 15px;
+    color: white;
+}
+.h1{
+    font-size: 35px!important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.p2{
+    font-size: 15px;
+    color: black;
+}
+.brand{
+    min-height: 500px;
+    width: 50%;
+    padding: 60px;
+    float: right;
+    color: white;
+    margin: 0 auto;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.p4{
+    color: white;
+}
+.p3{
+    color: white;
+}
+.h9{
+    color: white;
+    font-size: 14px;
+}
+.niyorktag{
+    color: white;
+    font-size: 14px;
+}
+.span{
+    color: blue;
+
+    color: goldenrod;
+}
+
+.h4{
+    color: black;
+}
+
+.h20{
+    color: black;
+
+}
+
+.h21{
+    color: black;
+}
+
+.name-input{
+    color: black;
+}
+
+.email-input{
+    color: black;
+}
+
+.item1{
+    color: black;
+}
+
+.item2{
+    color: black;
+}
+
+.item3{
+    color: black;
+}
+
+.p30{
+    color: black;
+}
+
+.assist{
+    color: black;
+}

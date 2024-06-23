@@ -1,0 +1,114 @@
+.mycontainer {
+
+    width: 100%;
+    min-height: 480px;
+    background-color: #F4EBC1;
+  }
+  
+  .containerinacontainer {
+    width: 70%;
+    background-color: #F2DD72;
+    margin: 0 auto;
+    height: 400px;
+    border-radius: 40px; 
+    padding: 30px;
+  }
+  
+  .myinnercontainer {
+    background-color: #F2DD72;
+    width: 48%;
+    float: left;
+  }
+  .nopp {
+    height: 100px;
+    width: 100%;
+  }
+  
+  .h12 {
+    font-size: 50px;
+    font-weight: bold;
+  }
+  
+  .btn12 {
+    background-color: #5ab98c;
+    padding: 15px;
+    border-radius: 18px;
+    width: 200px;
+    color: white;
+    border: none; /* Removing default button border */
+    cursor: pointer; /* Adding cursor pointer */
+  }
+  
+  .ion-toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .ion-buttons {
+    display: flex;
+    align-items: center;
+  }
+  
+  .toolbar-buttons ion-button {
+    margin-left: 10px; /* Add space between buttons */
+  }
+  
+  .toolbar-buttons .search-input {
+    margin-left: 10px; /* Space before search input */
+    margin-right: 10px; /* Space after search input */
+    width: 150px; /* Adjust the width of the search bar as needed */
+  }
+  
+  /* Second page styles */
+  .second-page {
+    background-color: #00A878;
+    padding: 100px 0;
+    text-align: center;
+    min-height: 600px;
+  }
+  
+  .why-title {
+    font-size: 36px;
+    color: #fff;
+  }
+  
+  .gocode {
+    color: #FFD700;
+  }
+  
+  .features-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    gap: 20px; /* Adding gap between features */
+  }
+  
+  .feature {
+    background-color: #3C3B3D;
+    border-radius: 20px;
+    padding: 20px;
+    width: 30%;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .feature img {
+    max-width: 80%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .feature h2 {
+    font-size: 24px;
+    margin-top: 10px;
+  }
+  
+  .feature p {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
